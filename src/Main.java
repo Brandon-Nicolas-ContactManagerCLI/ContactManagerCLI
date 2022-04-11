@@ -1,3 +1,4 @@
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main {
@@ -14,9 +15,15 @@ public class Main {
 
         if (menuChoice <= 0 || menuChoice > 5) {
             System.out.println("Invalid selection. ");
-        }
-        if (menuChoice == 1) {
+        } else if (menuChoice == 1) {
 
+        } else if (menuChoice == 2) {
+
+        }else if (menuChoice == 3) {
+
+        }else if (menuChoice == 4) {
+
+        }else{
         }
 
 
