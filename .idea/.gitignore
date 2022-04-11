@@ -1,0 +1,10 @@
+# MacOS
+.DS_Store
+
+# IntelliJ
+vcs.xml
+*.iml
+
+# Compiled output
+*.class
+out/*
