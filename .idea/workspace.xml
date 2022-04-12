@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d5a4dd-df55-4044-bd4a-4011b4035a02" name="Changes" comment="intial commit" />
+    <list default="true" id="97d5a4dd-df55-4044-bd4a-4011b4035a02" name="Changes" comment="Deleted something that wasnt used.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/contacts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/contacts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ContactManagerCLI/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ContactManagerCLI/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +24,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,6 +87,7 @@
       <workItem from="1649687046007" duration="76000" />
       <workItem from="1649687151618" duration="5183000" />
       <workItem from="1649695138366" duration="1150000" />
+      <workItem from="1649696525670" duration="14635000" />
     </task>
     <task id="LOCAL-00001" summary="intial commit">
       <created>1649696487493</created>
@@ -82,7 +96,28 @@
       <option name="project" value="LOCAL" />
       <updated>1649696487493</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="intial commit">
+      <created>1649696692639</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649696692639</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created a if else statement that will depend on the usersInput put 1-5">
+      <created>1649696805660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649696805660</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Deleted something that wasnt used.">
+      <created>1649696877192</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649696877192</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +136,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="intial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="intial commit" />
+    <MESSAGE value="Created a if else statement that will depend on the usersInput put 1-5" />
+    <MESSAGE value="Deleted something that wasnt used." />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted something that wasnt used." />
   </component>
 </project>
